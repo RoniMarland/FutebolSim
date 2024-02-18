@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"1d7d882f95560464","type":"text","text":"# HomePage\n\nBTN Novo jogo\n\nBTN Carregar Jogo","x":-1120,"y":0,"width":220,"height":160},
+		{"id":"47121259a8ce6534","type":"text","text":"# LoadPage\n\npega o arquivo inserido pelo  dados inseridos pelo jogador e carrega a base de dados dele","x":-820,"y":380,"width":250,"height":200},
+		{"id":"12ccde8358031072","type":"text","text":"# LoadDataBase\n\ne usar o resultado em uma variavel","x":-760,"y":-563,"width":250,"height":163},
+		{"id":"b15248ecbb153477","x":380,"y":-180,"width":737,"height":492,"type":"text","text":"# MAIN GAMEHUD"},
+		{"id":"5079dd509d7c141b","type":"text","text":"# Novo jogo\n\nSelect Team\n\nBTNS cada team do base de dados carregada\n\nINPUT nome do treinador\nNome do treinador visual\n\nBTN para Confirmar novo Jogo\n\n--------\n\ncriar variavel com nome do treinador e time selecionado para inicar novo jogo\n\n\n","x":-420,"y":-721,"width":360,"height":480}
+	],
+	"edges":[
+		{"id":"beba4f0f5967a70b","fromNode":"1d7d882f95560464","fromSide":"right","toNode":"47121259a8ce6534","toSide":"left"},
+		{"id":"6fffddcc1e242840","fromNode":"1d7d882f95560464","fromSide":"right","toNode":"12ccde8358031072","toSide":"left"},
+		{"id":"641783ad485bc75f","fromNode":"12ccde8358031072","fromSide":"right","toNode":"5079dd509d7c141b","toSide":"left"},
+		{"id":"4b0985f43631df2f","fromNode":"5079dd509d7c141b","fromSide":"right","toNode":"b15248ecbb153477","toSide":"left"},
+		{"id":"652fdd6efd201bbf","fromNode":"47121259a8ce6534","fromSide":"right","toNode":"b15248ecbb153477","toSide":"left"}
+	]
+}

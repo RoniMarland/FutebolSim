@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "bf89690497a25c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2da228d57d8dae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4caf4f02d0ec557",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main.canvas",
+                "viewState": {
+                  "x": -62.06627363132769,
+                  "y": -245.06167367646339,
+                  "zoom": -0.6666666666666665
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4272e405592b264",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b30ab786199fe3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138992a7f6ad540f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08cd02a04ea93f52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4530531f79aa90c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04123afdb7337b41",
+    "type": "split",
+    "children": [
+      {
+        "id": "83034c344dc30628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62d55c35eecbd131",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f4222ddaa4ed71a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbaf0dd1c37f8ec7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f6a63752efa85c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f4caf4f02d0ec557",
+  "lastOpenFiles": [
+    "Main.canvas",
+    "MainFLux.md",
+    "Sem título 8.canvas",
+    "Sem título 7.canvas",
+    "Sem título 6.canvas",
+    "Sem título 5.canvas",
+    "Sem título 4.canvas",
+    "Sem título 3.canvas",
+    "Sem título 2.canvas",
+    "Sem título 1.canvas",
+    "Welcome.md"
+  ]
+}

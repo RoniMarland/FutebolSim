@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  width: 100%;
+  height: 100vh;
+  padding: 0.5rem;
+  background-color: #31AD6B;
+}
+
+.mainContainer {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-color: purple;
+  padding: 5px;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.homeContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Alinha verticalmente os botões */
+  width: 50%;
+  height: 100%;
+  background-color: #31AD6B;
+  flex-direction: row;
+}
+
+.newGameBtn,
+.loadGameBtn {
+  border: none;
+  margin: 5px;
+  display: inline-block;
+  width: 50%;
+  padding: 15px;
+  cursor: pointer;
+  background-color: yellow;
+  transition: background-color 0.5s;
+  box-sizing: border-box;
+}
+
+.newGameBtn:hover,
+.loadGameBtn:hover {
+  background-color: red;
+}
+
+.newGameBtn:active,
+.loadGameBtn:active {
+  background-color: greenyellow;
+}
+
+
+
